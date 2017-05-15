@@ -1,2 +1,2 @@
 # react-native-common
-Common components for Azaritech React Native projects.
+Common components for React Native projects.
