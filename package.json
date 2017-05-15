@@ -11,7 +11,7 @@
     "url": "git+https://github.com/azaritech/react-native-common.git"
   },
   "keywords": [
-    "react-native"
+    "react", "react-native", "components", "azaritech"
   ],
   "author": "Nicolas Azari (nicodinh)",
   "license": "MIT",
@@ -22,5 +22,11 @@
 	"dependencies": {
 		"react": "16.0.0-alpha.6",
 		"react-native": "0.44.0"
+	},
+	"devDependencies": {
+		"babel-jest": "20.0.1",
+		"babel-preset-react-native": "1.9.1",
+		"jest": "20.0.1",
+		"react-test-renderer": "16.0.0-alpha.6"
 	}  
 }
