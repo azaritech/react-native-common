@@ -1,7 +1,7 @@
 {
   "name": "azaritech.react-native-common",
   "version": "1.0.0",
-  "description": "Common components for Azaritech React Native projects.",
+  "description": "Common components for React Native projects.",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,10 +13,14 @@
   "keywords": [
     "react-native"
   ],
-  "author": "Nicolas Azari - Azaritech.io",
+  "author": "Nicolas Azari (nicodinh)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/azaritech/react-native-common/issues"
   },
-  "homepage": "https://github.com/azaritech/react-native-common#readme"
+  "homepage": "https://github.com/azaritech/react-native-common#readme",
+	"dependencies": {
+		"react": "16.0.0-alpha.6",
+		"react-native": "0.44.0"
+	}  
 }
