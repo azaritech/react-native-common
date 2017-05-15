@@ -2,6 +2,11 @@
   "name": "azaritech.react-native-common",
   "version": "1.0.0",
   "description": "Common components for React Native projects.",
+  "author": "Nicolas Azari (nicodinh)",
+  "license": "MIT",
+  "keywords": [
+    "react", "react-native", "components", "azaritech"
+  ],
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,23 +15,18 @@
     "type": "git",
     "url": "git+https://github.com/azaritech/react-native-common.git"
   },
-  "keywords": [
-    "react", "react-native", "components", "azaritech"
-  ],
-  "author": "Nicolas Azari (nicodinh)",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/azaritech/react-native-common/issues"
   },
   "homepage": "https://github.com/azaritech/react-native-common#readme",
-	"dependencies": {
-		"react": "16.0.0-alpha.6",
-		"react-native": "0.44.0"
-	},
-	"devDependencies": {
-		"babel-jest": "20.0.1",
-		"babel-preset-react-native": "1.9.1",
-		"jest": "20.0.1",
-		"react-test-renderer": "16.0.0-alpha.6"
-	}  
+  "dependencies": {
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.44.0"
+  },
+  "devDependencies": {
+    "babel-jest": "20.0.1",
+    "babel-preset-react-native": "1.9.1",
+    "jest": "20.0.1",
+    "react-test-renderer": "16.0.0-alpha.6"
+  }  
 }
