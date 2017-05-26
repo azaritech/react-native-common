@@ -5,6 +5,7 @@ Common components for React Native projects.
 ### Button
 ### Card
 ### CardSection
+### Confirm
 ### Header
 ### Input
 ### Spinner
